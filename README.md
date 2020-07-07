@@ -1,0 +1,2 @@
+# Genome-sequence-Analysis-of-recent-out-breaks
+Identify viral proteins in the novel COVID-19 genome, the genome was sequenced from a sample of bronchoalveolar lavage fluid from a single patient who was a worker at the market and who was admitted to the Central Hospital of Wuhan on 26 December 2019. Comparative analysis of the COVID-19 viral proteins with the SARS, MERS and other bat coronaviruses proteins have been carried out with genome sequence visualizations.
